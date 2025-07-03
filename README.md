@@ -1,4 +1,4 @@
-## Sobre o desafio
+## Desafio Lista de Tarefas - Formação Node Rocketseat
 
 Nesse desafio o objetivo é desenvolver uma API para realizar o CRUD de tarefas.
 
